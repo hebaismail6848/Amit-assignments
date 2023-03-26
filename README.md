@@ -1,2 +1,0 @@
-# Amit-assignments
-python
